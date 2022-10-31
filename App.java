@@ -4,6 +4,7 @@ public class App {
 
 	public static void main(String[] args) {
 		//Instantiation of two players, and their beginning score of 0
+		System.out.println("Welcome to the game of war!");
 		Player playerUno = new Player("Jackie", 0);
 		Player playerDos = new Player("Daytona", 0);
 		
